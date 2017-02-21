@@ -1,0 +1,6 @@
+{
+  "directory": "app/assets/components",
+  "scripts": {
+    "postinstall": "ruby post_install.rb"
+  }
+}
